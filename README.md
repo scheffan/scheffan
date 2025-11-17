@@ -1,7 +1,7 @@
 <!-- Banner superior -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?size=32&duration=2800&pause=800&center=true&vCenter=true&width=850&lines=QA+Automation+Engineer;Data+Analysis+%26+AI+Validation;Python+%7C+PyTest+%7C+Grafana+%7C+LLM+Testing"
+    src="https://readme-typing-svg.demolab.com?size=32&duration=2800&pause=800&center=true&vCenter=true&width=850&lines=Data+Analysis+%26+AI+Validation;QA+Automation+Engineer;Python+%7C+PyTest+%7C+Grafana+%7C+LLM+Testing"
     alt="Typing SVG"
   />
 </p>
