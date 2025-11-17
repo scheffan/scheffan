@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Esteban Mendez</h1>
-<h3 align="center">Python Developer • QA Automation • Data Analyst • AI Validation</h3>
+<h3 align="center">• QA Automation • Data Analyst • AI Validation • Python Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mendez-esteban">
