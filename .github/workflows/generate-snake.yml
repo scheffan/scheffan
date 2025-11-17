@@ -5,14 +5,18 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - name: Generate Snake SVG
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: scheffan
@@ -20,8 +24,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
 
-      - name: Push Snake to Output
+      - name: Commit and push snake to output branch
         uses: EndBug/add-and-commit@v9
         with:
+          add: "dist/*.svg"
           message: "🐍 Update contribution snake"
-          add: "dist/"
+          new_branch: "output"

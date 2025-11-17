@@ -127,7 +127,7 @@ Grow as a **Data & QA Automation Engineer**, specializing in **AI systems, obser
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/scheffan/scheffan/blob/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/scheffan/scheffan/output/dist/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
