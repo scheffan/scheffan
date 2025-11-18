@@ -1,19 +1,18 @@
 <!-- Banner superior -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?size=32&duration=2800&pause=800&center=true&vCenter=true&width=850&lines=Data+Analysis+%26+AI+Validation;QA+Automation+Engineer;Python+%7C+PyTest+%7C+Grafana+%7C+LLM+Testing"
+    src="https://readme-typing-svg.demolab.com?size=32&duration=2600&pause=900&center=true&vCenter=true&width=900&lines=QA+Automation+%26+AI+Validation;Data+Analysis+%26+Observability;Python+%7C+PyTest+%7C+Grafana+%7C+LLM+Testing"
     alt="Typing SVG"
   />
 </p>
 
 <h1 align="center">Esteban Mendez</h1>
-<h3 align="center">• QA Automation • Data Analyst • AI Validation • Python Developer</h3>
+<h3 align="center">QA Automation · Data Analyst · AI Validation · Python Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/mendez-esteban">
     <img src="https://img.shields.io/badge/LinkedIn-Esteban%20Mendez-blue?style=for-the-badge&logo=linkedin">
   </a>
-
   <a href="https://portf.maitweb.com">
     <img src="https://img.shields.io/badge/Portfolio-Online-black?style=for-the-badge&logo=firefox">
   </a>
@@ -95,20 +94,28 @@ Grow as a **Data & QA Automation Engineer**, specializing in **AI systems, obser
 
 # 🚀 Projects
 
-### **🔹 Reddit Sentiment Extraction (NLP)**
+### 🔹 ScreenToText – Screen OCR to Clipboard
+
+- Select any screen region and extract text using EasyOCR.
+- Copies the recognized text directly to the clipboard.
+- Useful for QA, documentation, and quick data capture.
+- Repo: [ScreenToText](https://github.com/scheffan/ScreenToText)
+
+### 🔹 Reddit Sentiment Extraction (NLP)
 
 - Sentiment analysis and classification using NLP models
 - Automated conversation analysis in Python
 
-### **🔹 Image Classification & Object Detection (CV)**
+### 🔹 Image Classification & Object Detection (CV)
 
 - CNN & YOLO training using PyTorch & TensorFlow
 - Dataset pipelines, augmentations & metrics (accuracy, recall, mAP)
 
-### **🔹 Cybersecurity RAM Recovery Test**
+### 🔹 Cybersecurity RAM Recovery Test
 
 - RAM forensics using Volatility 3
 - Malware, process and network anomaly detection
+
 
 ---
 
