@@ -33,7 +33,9 @@ jobs:
           USERNAME: scheffan
 
       - name: Juntar imágenes
-        run: mv profile-3d-contrib salida/
+        run: |
+          sudo chown -R "$(id -u):$(id -g)" salida
+          mv profile-3d-contrib salida/
 
       - name: Publicar en la rama output
         uses: crazy-max/ghaction-github-pages@v4
