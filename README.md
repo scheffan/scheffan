@@ -117,6 +117,13 @@ Seleccionás una parte de la pantalla y el texto queda copiado en el portapapele
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scheffan/scheffan/output/profile-3d-contrib/profile-night-rainbow.svg" />
+    <img src="https://raw.githubusercontent.com/scheffan/scheffan/output/profile-3d-contrib/profile-green-animate.svg" alt="Contribuciones en 3D" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scheffan/scheffan/output/dist/github-contribution-grid-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/scheffan/scheffan/output/dist/github-contribution-grid-snake.svg" alt="Viborita de contribuciones" />
   </picture>
