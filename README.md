@@ -11,13 +11,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/mendez-esteban">
-    <img src="https://img.shields.io/badge/LinkedIn-Esteban%20Mendez-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://portf.maitweb.com">
-    <img src="https://img.shields.io/badge/Portfolio-Online-black?style=for-the-badge&logo=firefox" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox" alt="Portfolio">
   </a>
   <a href="https://scheffan.github.io/cv-ats-optimizer/">
-    <img src="https://img.shields.io/badge/Prob%C3%A1-CV%20ATS%20Optimizer-2C9AB7?style=for-the-badge&logo=googledocs&logoColor=white" alt="Probá CV ATS Optimizer">
+    <img src="https://img.shields.io/badge/CV%20Optimizer-2C9AB7?style=for-the-badge&logo=googledocs&logoColor=white" alt="CV Optimizer">
   </a>
 </p>
 
