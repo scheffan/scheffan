@@ -1,8 +1,10 @@
-name: Generate Snake
+name: Generar imágenes del perfil
 
 on:
   schedule:
     - cron: "0 */12 * * *"
+  push:
+    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -13,20 +15,31 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v5
 
-      - name: Generate Snake SVGs
+      - name: Viborita de contribuciones
         uses: Platane/snk@v3
         with:
           github_user_name: scheffan
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Commit and push snake to output branch
-        uses: EndBug/add-and-commit@v9
+      - name: Contribuciones en 3D
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: scheffan
+
+      - name: Juntar imágenes
+        run: mv profile-3d-contrib dist/
+
+      - name: Publicar en la rama output
+        uses: crazy-max/ghaction-github-pages@v4
         with:
-          add: "dist/*.svg"
-          message: "🐍 Update contribution snake"
-          new_branch: "output"
+          target_branch: output
+          build_dir: dist
+          commit_message: "Actualizar imágenes del perfil"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
