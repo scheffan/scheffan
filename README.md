@@ -1,12 +1,13 @@
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?size=30&duration=2600&pause=900&center=true&vCenter=true&width=900&lines=QA+Automation+%26+AI+Validation;Data+Analysis;Proyectos+que+la+gente+puede+usar"
-    alt="QA Automation & AI Validation · Data Analysis"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Esteban%20Mendez&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=QA%20Automation%20%C2%B7%20Data%20Analyst%20%C2%B7%20AI%20Validation&descSize=18&descAlignY=58&animation=fadeIn" alt="Esteban Mendez" width="100%" />
 </p>
 
-<h1 align="center">Esteban Mendez</h1>
-<h3 align="center">QA Automation · Data Analyst · AI Validation</h3>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=2C9AB7&center=true&vCenter=true&width=700&lines=Hola!+Bienvenido+a+mi+GitHub+%F0%9F%91%8B;Pruebo+software+para+que+no+se+rompa;Armo+herramientas+que+la+gente+puede+usar;Datos%2C+IA%2C+juegos+y+m%C3%BAsica"
+    alt="Hola, bienvenido a mi GitHub"
+  />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/mendez-esteban">
@@ -15,9 +16,22 @@
   <a href="https://portf.maitweb.com">
     <img src="https://img.shields.io/badge/Portfolio-Online-black?style=for-the-badge&logo=firefox" alt="Portfolio">
   </a>
+  <a href="https://scheffan.github.io/cv-ats-optimizer/">
+    <img src="https://img.shields.io/badge/Prob%C3%A1-CV%20ATS%20Optimizer-2C9AB7?style=for-the-badge&logo=googledocs&logoColor=white" alt="Probá CV ATS Optimizer">
+  </a>
 </p>
 
-Hago pruebas automatizadas, análisis de datos y validación de sistemas con IA. Me gusta armar herramientas chicas que cualquiera pueda abrir y usar, y probarlas en serio: cada proyecto tiene sus tests corriendo en GitHub Actions.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=scheffan&label=Visitas&color=2c5364&style=flat-square" alt="Visitas al perfil" />
+</p>
+
+## 👋 Sobre mí
+
+- 🧪 Hago **QA Automation** y validación de sistemas con IA.
+- 📊 Estudio **análisis de datos** y me gusta contar historias con gráficos.
+- 🛠️ Armo herramientas chicas que cualquiera pueda abrir y usar, y las pruebo en serio: cada proyecto tiene sus tests en GitHub Actions.
+- 🎮 Hago juegos en **Godot** y 🎹 música en **Ableton**.
+- 💬 Hablemos de testing, datos, IA local o lo que estés armando.
 
 ---
 
@@ -82,28 +96,41 @@ Seleccionás una parte de la pantalla y el texto queda copiado en el portapapele
 
 ## 🧰 Herramientas
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![PyTest](https://img.shields.io/badge/-PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,postgres,bash,git,docker,githubactions,linux&perline=9" alt="Lenguajes y herramientas" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,grafana,godot,flutter,dart,vscode&perline=8" alt="Frameworks y más" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
+  <img src="https://img.shields.io/badge/-PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="PyTest">
+  <img src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/-OWASP%20ZAP-00549E?style=flat-square&logo=owasp&logoColor=white" alt="OWASP ZAP">
+  <img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
+  <img src="https://img.shields.io/badge/-Ableton-000000?style=flat-square&logo=abletonlive&logoColor=white" alt="Ableton">
+</p>
 
 ---
 
+## 📈 Actividad
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/scheffan/scheffan/output/dist/github-contribution-grid-snake-dark.svg" alt="Contribuciones" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scheffan/scheffan/output/profile-3d-contrib/profile-night-rainbow.svg" />
+    <img src="https://raw.githubusercontent.com/scheffan/scheffan/output/profile-3d-contrib/profile-green-animate.svg" alt="Contribuciones en 3D" />
+  </picture>
 </p>
 
-<h3 align="center">Siempre aprendiendo. Siempre construyendo.</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/scheffan/scheffan/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/scheffan/scheffan/output/github-contribution-grid-snake.svg" alt="Viborita de contribuciones" />
+  </picture>
+</p>
+
+<p align="center"><b>Siempre aprendiendo. Siempre construyendo.</b></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="" width="100%" />
+</p>
